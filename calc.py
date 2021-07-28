@@ -1,5 +1,5 @@
 def somar(x, y):
-    return (xy)
+    return (x+y)
 
 
 def subtrair(x, y):
